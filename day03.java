@@ -8,8 +8,6 @@ import java.util.regex.*;
 
 public class day3 {
 
-
-
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
