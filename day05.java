@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class day5 {
+public class day05 {
 
     private static final Scanner scanner = new Scanner(System.in);
 

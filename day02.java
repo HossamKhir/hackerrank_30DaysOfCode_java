@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class day2 {
+public class day02 {
 
     // Complete the solve function below.
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
